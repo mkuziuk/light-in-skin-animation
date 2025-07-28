@@ -1,0 +1,5 @@
+pyxopto @ git+https://github.com/xopto/pyxopto.git@be45fd6d44696b5a40a327dd0f494d46f5585fda
+numpy
+scipy
+matplotlib
+jupyter
