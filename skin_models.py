@@ -2,7 +2,7 @@
 import numpy as np
 
 import xopto.mcml as mc
-from xopto.pf.hg import Hg
+from xopto.mcbase.mcpf.hg import Hg
 import optical_properties as op
 from constants import layer_params, hemangioma_params
 
