@@ -14,4 +14,4 @@ This Jupyter notebook demonstrates the simulation and visualization of light pro
 - **skin_spectre_comp.ipynb**: Compares different skin reflectance spectra.
 - **skin_spectre_3_layers.ipynb**: Simulates and visualizes skin reflectance for a three-layer skin model.
 - **sample_gen_3_layers.ipynb**: Generates sample data for three-layer skin models.
-- **reflectance_mlp.ipynb**: Uses a multilayer perceptron (MLP) to model skin reflectance.
+- **reflectance_mlp.ipynb**: Uses Logistic Regression and a multilayer perceptron (MLP) to predict hemangioma.
